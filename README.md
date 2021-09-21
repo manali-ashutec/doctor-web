@@ -1,4 +1,4 @@
 # doctor-web
 
 my website link
-https://one-health-manali.netlify.app/
+https://one-health-manali.netlify.app/.  resolve conflicts
